@@ -1,0 +1,14 @@
+{
+  "name": "guardbee/guardbee",
+  "description": "Guard Bee",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "index.php"
+    ]
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
